@@ -8,3 +8,4 @@
 # Foto terbaik yang pernah saya ambil
 ![Alt Text](https://github.com/lethanfadlil/BioData-/blob/master/p.jpeg)
 
+![Alt Text](https://github.com/lethanfadlil/BioData-/blob/master/20200719_121349.jpg)
